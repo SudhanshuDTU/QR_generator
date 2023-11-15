@@ -1,6 +1,13 @@
 body{
     background: #494949;
 }
+a{
+    color: aliceblue;
+    text-decoration-line: none;
+    display: flex;
+    justify-content: center;
+    align-items: start;
+  }
 h1 {
     display: flex;
     justify-content: center;
